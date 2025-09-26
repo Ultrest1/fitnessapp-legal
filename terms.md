@@ -15,7 +15,7 @@ Uygulama yalnızca bilgilendirme amaçlıdır. Egzersiz veya sağlık konuların
 Şartlar zaman zaman güncellenebilir. Kullanıcıların güncellemeleri takip etmesi kendi sorumluluğundadır.
 
 5. İletişim
-Sorularınız için: support@fitnessapp.com
+Sorularınız için: ultrest12@gmail.com
 Terms of Use
 
 1. General
@@ -33,4 +33,4 @@ The app is for informational purposes only. Please consult your doctor for profe
 These terms may be updated from time to time. Users are responsible for reviewing updates.
 
 5. Contact
-For inquiries: support@fitnessapp.com
+For inquiries: ultrest12@gmail.com
