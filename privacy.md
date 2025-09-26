@@ -21,7 +21,7 @@ Bu uygulama ("FitnessApp"), kullanıcıların egzersizlerini takip etmesine yard
 - Apple ID üzerinden aboneliğinizi yönetebilir veya iptal edebilirsiniz.
 
 5. İletişim
-Herhangi bir sorunuz olursa bizimle şu adresten iletişime geçebilirsiniz: support@fitnessapp.com
+Herhangi bir sorunuz olursa bizimle şu adresten iletişime geçebilirsiniz: ultrest12@gmail.com
 Privacy Policy
 
 This application ("FitnessApp") is designed to help users track their workouts. Your privacy is important to us. The data we collect, how it is processed, and your rights are described below.
@@ -45,4 +45,4 @@ This application ("FitnessApp") is designed to help users track their workouts. 
 - You can manage or cancel subscriptions through your Apple ID.
 
 5. Contact
-For any questions, you can reach us at: support@fitnessapp.com
+For any questions, you can reach us at: ultrest12@gmail.com
