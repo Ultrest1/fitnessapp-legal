@@ -1,4 +1,4 @@
-Gizlilik Politikası
+# Gizlilik Politikası
 
 Bu uygulama ("SportAlertFit", önceki adıyla AxoraFit Journal), kullanıcıların egzersizlerini takip etmesine yardımcı olmak için geliştirilmiştir. Gizliliğiniz bizim için önemlidir. Bu nedenle topladığımız veriler, nasıl işlendiği ve kullanıcı haklarınız aşağıda açıklanmıştır.
 
@@ -22,7 +22,8 @@ Bu metin SportAlertFit 2.0.0 ve sonraki sürümleri açıklar. Bu sürümler rek
 
 5. İletişim
 Herhangi bir sorunuz olursa bizimle şu adresten iletişime geçebilirsiniz: ultrest12@gmail.com
-Privacy Policy
+
+# Privacy Policy
 
 This application ("SportAlertFit", formerly AxoraFit Journal) is designed to help users track their workouts. Your privacy is important to us. The data we collect, how it is processed, and your rights are described below.
 
